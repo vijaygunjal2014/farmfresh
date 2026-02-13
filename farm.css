@@ -1114,7 +1114,7 @@ button:hover {
 }
 
 /* ================= TABLET VIEW ================= */
-@media (min-width: 577px) and (max-width: 992px) {
+@media (min-width: 577px) and (max-width: 980px) {
   .About {
     flex-wrap: wrap;
     justify-content: center;
